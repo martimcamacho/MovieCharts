@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Movie Charts</string>
+
+    <!-- Error message to be displayed with error TextView -->
+    <string name="error_message">Something Went Wrong. Please Try Again</string>
+
+    <!--String to be used in main overflow menu -->
+    <string name="action_popular">Show Popular Movies</string>
+    <string name="action_top_rated">Show Top Rated Movies</string>
+    <string name="action_favorites">Show Favorite Movies</string>
+    <string name="action_settings">Settings</string>
+
+
+    <!-- Activity Names -->
+    <string name="activity_movie_details">Movie Details</string>
+    <string name="activity_settings">Settings</string>
+
+
+
+    <!--Strings in Settings Menu -->
+    <string name="api_title">TMDB API Key</string>
+    <string name="api_summary">Your TMDB API Key necessary to query online database</string>
+
+
+    <!--String in Main Activity -->
+    <string name="no_favorites">No favorites in your database</string>
+
+    <!--Strings in Movie Details -->
+    <string name="deleted_from_favorites">Successfully removed from favorites</string>
+    <string name="added_to_favorites">Successfully added to favorites</string>
+    <string name="play_trailer">Play Trailer %d</string>
+
+
+
+
+    <!--Errors -->
+    <string name="toast_error">Something failed. Please try again later</string>
+</resources>
